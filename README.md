@@ -46,7 +46,6 @@ The system supports:
 | Frontend       | ReactJS, Tailwind CSS          |
 | Backend        | Python (Flask)                 |
 | Database       | PostgreSQL (PgAdmin)           |
-| Notifications  | SMTP (Email), SMS API (e.g., Twilio) |
 | Dev Tools      | VS Code                        |
 | Design Theme   | Red (#e3342f), white, and grey with GIFs |
 
